@@ -23,6 +23,6 @@
         "tests"
     ],
     "dependencies": {
-        "leaflet": ">= 0.7.0"
+        "leaflet-dist": ">= 0.7.0"
     }
 }
